@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/joseph-onsip/generics/issues"
   },
-  "homepage": "https://github.com/joseph-onsip/generics"
+  "homepage": "https://github.com/joseph-onsip/generics",
+  "devDependencies": {
+    "beefy": "^2.1.1",
+    "browserify": "^7.0.0"
+  }
 }
