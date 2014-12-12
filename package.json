@@ -19,6 +19,7 @@
   "homepage": "https://github.com/joseph-onsip/generics",
   "devDependencies": {
     "beefy": "^2.1.1",
-    "browserify": "^7.0.0"
+    "browserify": "^7.0.0",
+    "jshint": "^2.5.10"
   }
 }
